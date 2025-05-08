@@ -1,3 +1,4 @@
+https://github.com/sogong9/assignment1
 [heewonox] Thu May 8 20:17:36 2025 +0900 2차 모임 후 최종 통합 8780094
 [heewonox] Thu May 8 20:01:04 2025 +0900 Use_Case_Description 통합 6761765
 [heewonox] Thu May 8 19:37:33 2025 +0900 use case diagram 명칭 통일 b280df4
